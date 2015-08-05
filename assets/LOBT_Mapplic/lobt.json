@@ -1,0 +1,257 @@
+{
+	"mapwidth": "1080",
+	"mapheight": "900",
+	"categories": [
+		{
+			"id": "102x140",
+			"title": "102' x 140'",
+			"color": "#FABD12",
+			"show": "false"
+		},
+		{
+			"id": "82x130",
+			"title": "82' x 130'",
+			"color": "#F6881F",
+			"show": "false"
+		},
+        {
+			"id": "75x125",
+			"title": "75' x 125'",
+			"color": "#F7ACAC",
+			"show": "false"
+		},
+        {
+			"id": "65x125",
+			"title": "65' x 125'",
+			"color": "#F37D7C",
+			"show": "false"
+		},
+         {
+			"id": "55x115",
+			"title": "75' x 125'",
+			"color": "#BD4646",
+			"show": "false"
+		},
+         {
+			"id": "50x115",
+			"title": "75' x 125'",
+			"color": "#913233",
+			"show": "false"
+		},
+         {
+			"id": "courtyards",
+			"title": "Courtyards 50' x 125'",
+			"color": "#6F57A5",
+			"show": "false"
+		},
+
+                 {
+			"id": "gardenHomes",
+			"title": "Garden Homes 55' x 120'",
+			"color": "#A586BE",
+			"show": "false"
+		},
+                 {
+			"id": "townhomes",
+			"title": "Townhomes",
+			"color": "#F1AB61",
+			"show": "false"
+		},
+                 {
+			"id": "future",
+			"title": "Future Developments",
+			"color": "#F7F6BA",
+			"show": "false"
+		},
+                         {
+			"id": "amenities",
+			"title": "Amenities",
+			"color": "#006838",
+			"show": "false"
+		}
+	],
+	"levels": [
+		{
+			"id": "lower",
+			"name": "0",
+			"title": "plot Map",
+			"map": "/assets/LOBT_Mapplic/images/apartment/lower.jpg",
+			"minimap": "/assets/LOBT_Mapplic/images/apartment/lower.jpg",
+			"locations": [
+				{
+					"id": "dogpark",
+					"title": "Dog Park",
+					"about": "The best place to spend the afternoon",
+					"description": "<p>This is an awesome coffee table.<p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra laoreet imperdiet. Praesent viverra, enim at malesuada dignissim, ante purus vestibulum turpis, nec molestie ipsum mauris non risus. In hac habitasse platea dictumst. Integer porta dignissim magna, at sollicitudin neque aliquam eget. Pellentesque dapibus, augue eu ornare mattis, est mauris volutpat ligula, ac ornare turpis turpis sit amet elit.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"x": "0.2067",
+					"y": "0.4660",
+					"zoom": "3"
+				},
+                {
+					"id": "tennis",
+					"title": "Tennis",
+					"about": "The best place to spend the afternoon",
+					"description": "<p>This is an awesome coffee table.<p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra laoreet imperdiet. Praesent viverra, enim at malesuada dignissim, ante purus vestibulum turpis, nec molestie ipsum mauris non risus. In hac habitasse platea dictumst. Integer porta dignissim magna, at sollicitudin neque aliquam eget. Pellentesque dapibus, augue eu ornare mattis, est mauris volutpat ligula, ac ornare turpis turpis sit amet elit.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"x": "0.3870",
+					"y": "0.6913",
+					"zoom": "6"
+				},
+				{
+					"id": "fishing",
+					"title": "Fishing",
+					"about": "Stairs to the top floor",
+					"description": "Let's go upstairs!",
+					"category": "amenities",
+					"x": "0.5137",
+					"y": "0.6136",
+					"zoom": "3"
+				},
+				{
+					"id": "fishing02",
+					"title": "Fishing",
+					"about": "An eight-person dining table",
+					"description": "<img src=\"images/logo.png\" alt=\"Mapplic\"><p>An eight-person dining table with an image.<p>",
+					"category": "amenities",
+					"x": "0.4746",
+					"y": "0.2883",
+					"zoom": "3"
+				},
+				{
+					"id": "reccentr",
+					"title": "Family Recreation Center",
+					"about": "For the perfect coffee",
+					"description": "Coffee Machine",
+					"category": "75x125",
+					"x": "0.6792",
+					"y": "0.3459",
+					"zoom": "10"
+				},
+				{
+					"id": "hubenak",
+					"title": "Joe A. Hubenak",
+					"about": "This is where the magic happens",
+					"description": "It's the perfect home workspace you've always dreamed about.",
+					"category": "amenities",
+					"x": "0.6285",
+					"y": "0.1480",
+					"zoom": "3"
+				},
+				{
+					"id": "tle",
+					"title": "The Learning Experience Academy of Early Education",
+					"about": "Well equipped kitchen",
+					"description": "<p>Welcome to the kitchen.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"pin": "hidden",
+					"x": "0.665",
+					"y": "0.46",
+					"zoom": "3"
+				},
+                {
+					"id": "soccer",
+					"title": "Soccer",
+					"about": "Well equipped kitchen",
+					"description": "<p>Welcome to the kitchen.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"pin": "hidden",
+					"x": "0.665",
+					"y": "0.46",
+					"zoom": "3"
+				},
+                {
+					"id": "trails",
+					"title": "Trails",
+					"about": "Well equipped kitchen",
+					"description": "<p>Welcome to the kitchen.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"pin": "hidden",
+					"x": "0.665",
+					"y": "0.46",
+					"zoom": "3"
+				},
+                                {
+					"id": "westlake",
+					"title": "Westlake Prepatory",
+					"about": "Well equipped kitchen",
+					"description": "<p>Welcome to the kitchen.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"pin": "hidden",
+					"x": "0.665",
+					"y": "0.46",
+					"zoom": "3"
+				},
+                                {
+					"id": "parks",
+					"title": "Parks",
+					"about": "Well equipped kitchen",
+					"description": "<p>Welcome to the kitchen.</p>",
+					"category": "amenities",
+					"link": "http://codecanyon.net/user/sekler?ref=sekler",
+					"pin": "hidden",
+					"x": "0.665",
+					"y": "0.46",
+					"zoom": "3"
+				},
+				{
+					"id": "entranceTop",
+					"title": "Entrance",
+					"about": "Could be a motto",
+					"description": "The main living room <!--<iframe width=\"320\" height=\"180\" src=\"//www.youtube.com/embed/HGy9i8vvCxk\" frameborder=\"0\" allowfullscreen></iframe>-->",
+					"category": "amenities",
+					"pin": "hidden",
+					"x": "0.3",
+					"y": "0.4",
+					"zoom": "3"
+				}
+			]
+		},
+		{
+			"id": "upper",
+			"name": "1",
+			"title": "Home Model",
+			"map": "images/apartment/upper.jpg",
+			"minimap": "images/apartment/upper-small.jpg",
+			"locations": [
+				{
+					"id": "livingup",
+					"title": "Living room",
+					"about": "Upper level living",
+					"description": "<img src=\"images/logo.png\" alt=\"Mapplic\"><p>I could spend the whole day here!</p>",
+					"category": "rooms",
+					"x": "0.49",
+					"y": "0.36",
+					"zoom": "2"
+				},
+				{
+					"id": "kingbed",
+					"title": "King bed",
+					"about": "Very comfortable king size bed",
+					"description": "A king size bed situated in the main bedroom on the first floor.",
+					"category": "furniture",
+					"x": "0.6564",
+					"y": "0.2782",
+					"zoom": "3"
+				},
+				{
+					"id": "bathroom",
+					"title": "Bathroom",
+					"about": "Or anything you want to show in the list",
+					"description": "Take a bath",
+					"category": "rooms",
+					"pin": "hidden",
+					"x": "0.7843",
+					"y": "0.4035",
+					"zoom": "3"
+				}
+			]
+		}
+	]
+}
